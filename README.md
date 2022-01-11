@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on PaganiTexter\n
-🌱 I’m currently learning Android apps develpment with Kotlin and REST API's in Node.js
+- 🔭 I’m currently working on PaganiTexter
+- 🌱 I’m currently learning Android apps develpment with Kotlin and REST API's in Node.js
 
 <!--
 **maciekdt/maciekdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciekdt&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
