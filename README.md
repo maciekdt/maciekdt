@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on PaganiTexter
+🔭 I’m currently working on PaganiTexter\n
 🌱 I’m currently learning Android apps develpment with Kotlin and REST API's in Node.js
 
 <!--
